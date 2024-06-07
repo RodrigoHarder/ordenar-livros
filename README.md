@@ -26,11 +26,6 @@ Desenvolvimento da página de livros do site Alura Book, com o objetivo de papli
 - Usar o operdador ternário `?:`;
 - Aplicar o método `.reduce()` para somar os valores de todos os livros disponíveis;
 - Conhecer outros métodos de array: `.concat()`, `.pop()`, `.push()`, `.includes()`, `.fill()`, `.indexOf()`, `.reverse()`, `.slice()`, `.some()`, `.join()`, `.shift()`, `.unshift()`, `.splice`, `.length()`, `.toString()`, `.findIndex()` , `.find()` , `.at()` , `.isArray()` , `.every()`, `.copyWithin()` , `.lastIndexOf()`, `.valueOf()` ,`.keys()`.
-    
-
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/ordernar-livros/).
 
 ## **Como usar os arquivos?**
 
